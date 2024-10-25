@@ -54,7 +54,7 @@ const Services = () => {
 
             <div className='py-24'>
                 <div className='case-responsive-container mb-8 flex flex-col items-center text-center'>
-                    <h2 className='text-5xl font-bold pr-2 text-gray-700'><span className='text-primary-700'>Our Area of Expertise </span>Encompasses...</h2>
+                    <h2 className='text-5xl font-bold text-gray-700'><span className='text-primary-700'>Our Area of Expertise </span>Encompasses...</h2>
                 </div>
                 <div className=''>
                     {zigzagItems.map((item, index) => (
